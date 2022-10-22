@@ -1,3 +1,10 @@
-# Morpion-Node.JS-Socket.IO-et-Bootstrap-5
+# Comment installer le morpion sur sa machine
 
-Test
+##### Installer npm sur sa machine.
+
+Pour lancer le projet, il suffit de :
+
+```
+npm install 
+npm start
+```
