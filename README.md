@@ -9,4 +9,4 @@ npm install
 npm start
 ```
 
-https://www.youtube.com/watch?v=Mct3TqiCxLY&t=247s&ab_channel=Pentiminax 45min
+https://www.youtube.com/watch?v=Mct3TqiCxLY&t=247s&ab_channel=Pentiminax 1h15->Lien d'invitation ne marche pas !
